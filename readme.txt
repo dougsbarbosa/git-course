@@ -2,8 +2,10 @@
 
 Este é um repositório para mostrar como o git funciona.
 
-Saiba mais em [www.orkut.com](Orkut.com)
+Curso oferecido pela Udemy!
+Gostou do curso? Quer saber mais?
 
-Gostou do curso? Quer mais? Stream MC Mirella amore, amo muito!
+Acesse meu LinkedIn para contato:
+https://www.linkedin.com/in/douglas-barbosa-1b8885127/
 
-That's all
+Obrigado.
